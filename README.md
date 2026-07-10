@@ -19,7 +19,7 @@ I am a Cyber security student at NIIT PortHarcourt, Passionate about offensive a
 | Log Analysis |          | Coming soon |
 | Malware Analysis |        | Comimg soon |
 | Digital Forensic |        | Coming soon |
-| OSINT Investigation |      | Coming soon |
+| OSINT Investigation |      |  https://github.com/Hebron001/osint-|
 | Threat Hunting |            | Coming soon |
 | Social engineering |         | Coming soon |
 | Vulnurability Assessment |    | Coming soon |
