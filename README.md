@@ -22,7 +22,7 @@ I am a Cyber security student at NIIT PortHarcourt, Passionate about offensive a
 | OSINT Investigation |      |  https://github.com/Hebron001/osint-|
 | Threat Hunting |            | Coming soon |
 | Social engineering |         | Coming soon |
-| Vulnurability Assessment |    | Coming soon |
+| Vulnurability Assessment |    | https://github.com/Hebron001/vulnerability-assessment- |
 | SOC Analysis |            | Coming soon |
 
 ## Skills
